@@ -18,7 +18,7 @@ permalink: /geyser/playit-gg/
    ![img](https://cdn.discordapp.com/attachments/744287608217272351/955135576045137971/unknown.png)
 5. Connect to your tunnel using the provided playit.gg address.
    ![img](https://cdn.discordapp.com/attachments/744287608217272351/955138885388730428/unknown.png)
-6. If you join successfully, then you are done! Make sure to leave the playit.gg program running as closing it will close the tunnel. (If you failed to join, check out the [troubleshooting](/geyser/setting-up-playit-gg/#troubleshooting) section of the page.)
+6. If you join successfully, then you are done! Make sure to leave the playit.gg program running as closing it will close the tunnel. (If you failed to join, check out the [troubleshooting](/geyser/playit-gg/#troubleshooting) section of the page.)
 
 ## Troubleshooting
 
